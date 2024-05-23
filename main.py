@@ -11,3 +11,4 @@ with open('output.log', 'a') as f:  # открываем файл для доб�
         time.sleep(1)  # ожидание 1 секундысд
 
 #test commit
+#another test commit
